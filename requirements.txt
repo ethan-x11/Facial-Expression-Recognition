@@ -4,3 +4,4 @@ keras
 seaborn
 matplotlib
 scipy
+flask
