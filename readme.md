@@ -9,7 +9,7 @@ The Real-Time Facial Expression Recognition project aims to build a robust syste
 
 
 💻  Tech-Stacks Used -
----------------------
+------------------------
 
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
